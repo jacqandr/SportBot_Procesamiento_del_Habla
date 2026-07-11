@@ -1,0 +1,17 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Nike Revolution 8",
+      "categoria": "Zapatillas",
+      "marca": "Nike",
+      "deporte": "Running",
+      "color": "Negro",
+      "talles": [40, 41, 42, 43],
+      "precio": 85000,
+      "descuento": 10,
+      "stock": true,
+      "descripcion": "Zapatilla liviana ideal para running y entrenamiento."
+    }
+  ]
+}
