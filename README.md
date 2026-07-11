@@ -128,7 +128,7 @@ SportBot/
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/jacq_andr/SportBot.git
+git clone https://github.com/jacqandr/SportBot_Procesamiento_del_Habla.git
 ```
 
 ---
